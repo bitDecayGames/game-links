@@ -5,6 +5,31 @@ Bitdecay Games soundtracks: [bitdecay.games/ost](https://bitdecay.games/ost)</br
 Github organization: [bitdecay.games/github](https://bitdecay.games/github)</br>
 Itch IO: [bitdecay.games/itchio](https://bitdecay.games/itchio)</br>
 
+### 2021:
+
+#### Pocobot's Obligation
+Jam page: [bitdecay.games/Lacuna](https://bitdecay.games/Lacuna)</br>
+Itch IO: [bitdecay.games/LacunaItchio](https://bitdecay.games/LacunaItchio)</br>
+OST: [bitdecay.games/LacunaOST](https://bitdecay.games/LacunaOST)</br>
+Github repo: [https://github.com/bitDecayGames/LudumDare49](https://bitdecay.games/LacunaGithub)</br>
+
+#### Aerostat
+Jam page: [https://itch.io/jam/gbjam-9/rate/1199995](https://itch.io/jam/gbjam-9/rate/1199995)</br>
+Itch IO: [https://bitdecaygames.itch.io/aerostat](https://bitdecaygames.itch.io/aerostat)</br>
+OST: [TODO](TODO)</br>
+
+#### Holey Moley
+Jam page: [https://ldjam.com/events/ludum-dare/48/holey-moley-1](https://ldjam.com/events/ludum-dare/48/holey-moley-1)</br>
+Itch IO: [https://bitdecaygames.itch.io/holey-moley](https://bitdecaygames.itch.io/holey-moley)</br>
+OST: [bitdecay.games/HoleyMoley](bitdecay.games/HoleyMoley)</br>
+Github repo: [https://github.com/bitDecayGames/LudumDare48](https://github.com/bitDecayGames/LudumDare48)</br>
+
+#### Eventful Horizon 2: Found in Space
+Jam page: [https://globalgamejam.org/2021/games/found-space-8](https://globalgamejam.org/2021/games/found-space-8)</br>
+Itch IO: [https://bitdecaygames.itch.io/found-in-space](https://bitdecaygames.itch.io/found-in-space)</br>
+OST: [https://bitdecaygames.bandcamp.com/album/found-in-space-ost-global-game-jam-2021](https://bitdecaygames.bandcamp.com/album/found-in-space-ost-global-game-jam-2021)</br>
+Github repo: [https://github.com/bitDecayGames/GlobalGameJam2021](https://github.com/bitDecayGames/GlobalGameJam2021)</br>
+
 ### 2020:
 
 #### Lacuna:
